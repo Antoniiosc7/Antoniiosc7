@@ -11,7 +11,7 @@ Me encanta colaborar en pequeños proyectos tanto de front como de back-ends, so
 ## ⚡ Proyectos Destacados
 Aquí encontrarás algunos de mis proyectos destacados. ¡Explora mi repositorio para ver más!
 
-1. [Deteccion de imagenes](https://github.com/Antoniiosc7/TShirtDetection)
+1. [Deteccion de imagenes](https://github.com/Antoniiosc7/JerseyDetection)
    - Detección de texto en imagenes, principalmente basado en camisetas de futbol que detectan el jugador y hacen una comparacion con la base de datos de FC EA Sport 24 y obtiene las estadísticas del jugador. La detección de texto se realiza mediante diferentes filtros como gausiano o filtro laplaciano. El proyecto está hecho en python y con librerias como Open CV y EasyOCR.
 
 2. [Twitch Clips](https://github.com/Antoniiosc7/TwitchClips)
