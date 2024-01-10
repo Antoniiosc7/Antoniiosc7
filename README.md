@@ -1,19 +1,3 @@
-
-
-<!--
-**Antoniiosc7/Antoniiosc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Soy Antonio Saborido
 ## Bienvenid@ a mi perfil de GitHub 👋
 
@@ -27,7 +11,7 @@ Me encanta colaborar en pequeños proyectos tanto de front como de back-ends, so
 ## ⚡ Proyectos Destacados
 Aquí encontrarás algunos de mis proyectos destacados. ¡Explora mi repositorio para ver más!
 
-1. [Deteccion de imagenes](https://github.com/Antoniiosc7/PID)
+1. [Deteccion de imagenes](https://github.com/Antoniiosc7/TShirtDetection)
    - Detección de texto en imagenes, principalmente basado en camisetas de futbol que detectan el jugador y hacen una comparacion con la base de datos de FC EA Sport 24 y obtiene las estadísticas del jugador. La detección de texto se realiza mediante diferentes filtros como gausiano o filtro laplaciano. El proyecto está hecho en python y con librerias como Open CV y EasyOCR.
 
 2. [Twitch Clips](https://github.com/Antoniiosc7/TwitchClips)
