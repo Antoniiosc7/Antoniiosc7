@@ -20,5 +20,5 @@ Aquí encontrarás algunos de mis proyectos destacados. ¡Explora mi repositorio
 ## 📫 Contacto
 Si compartes mi pasión por la informática y el desarrollo, ¡no dudes en contactarme! Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡Hablemos!
 - **Correo Electrónico:** [antonio.saborido01@gmail.com](mailto:antonio.saborido01@gmail.com)
-- **LinkedIn:** [Antonio Saborido](https://www.linkedin.com/in/antonio-saborido/)
+- **LinkedIn:** [Antonio Saborido](https://www.linkedin.com/in/antonio-saborido-campos-512343204/)
 
