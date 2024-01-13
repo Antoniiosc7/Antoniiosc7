@@ -16,6 +16,9 @@ Aquí encontrarás algunos de mis proyectos destacados. ¡Explora mi repositorio
 
 2. [Twitch Clips](https://github.com/Antoniiosc7/TwitchClips)
    - Integración de la api de twitch en una página svelte que permite ver los clips más populares de los streamers de League of Legends.
+  
+3. [Jump Marius](https://github.com/Antoniiosc7/JumpMarius)
+   - Juego de plataformas 2D parecido al conocido Mario Bros, realizado usando Python y la libreria Pygame-ce.
 
 ## 📫 Contacto
 Si compartes mi pasión por la informática y el desarrollo, ¡no dudes en contactarme! Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡Hablemos!
